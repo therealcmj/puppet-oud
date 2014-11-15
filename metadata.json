@@ -1,0 +1,14 @@
+{
+  "name": "therealcmj-oud",
+  "version": "0.1.0",
+  "author": "therealcmj",
+  "summary": "Installs Oracle Unified Directory and create an instance",
+  "license": "Apache 2.0",
+  "source": "https://github.com/therealcmj/puppet-oud",
+  "project_page": "https://github.com/therealcmj/puppet-oud",
+  "issues_url": "https://github.com/therealcmj/puppet-oud/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
